@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm **Mourya K D**
+# 👋 Hey there! I'm **Mourya KD**
 **Full Stack Developer | DevOps Enthusiast | Automation Learner**
 
 ---
